@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="86.002px" height="30px"
+  viewBox="0 0 86.002 30" enable-background="new 0 0 86.002 30" xml:space="preserve">
+  <circle fill-rule="evenodd" clip-rule="evenodd" fill="#0066B2" cx="7.195" cy="15.417" r="2.527"/>
+  <circle fill-rule="evenodd" clip-rule="evenodd" fill="#0066B2" cx="78.649" cy="15.417" r="2.528"/>
+  <g>
+   <rect x="6" y="15" fill="#0066B2" width="74" height="1"/>
+ </g>
+</svg>
